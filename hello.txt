@@ -7,6 +7,6 @@ hello word
 hello word
 hello word
 hello word
-hello word
+hello word hot.txt
 hello word
 
